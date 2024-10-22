@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serife;
+    background-color: #1b1918;
+    margin: 0;
+}
+.principal {
+    background-color: #fff;
+    width: 70%;
+    /* não passar o tamanho de 440px */
+    max-width: 440px;
+    height: 400px;
+    
+    text-align: center;
+    /* o padding espaçamento interno */
+    padding: 30px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.menu {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.menu a {
+    color: #fff;
+    /* cor de fundo */
+    background-color: #004589;
+    /* coloca os links um abaixo do outro */
+    display: block;
+    /* Retir o sublinhado */
+    text-decoration: none;
+    /* espaçamento externo */
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+}
+
+.menu a:hover {
+    background-color: #181b1b;
+}
+a {
+    color: red;
+}
+h1 {
+    color: #1b1918;
+    font-size: 24px;
+}
+p {
+    color: #666;
+}

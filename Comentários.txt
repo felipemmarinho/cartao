@@ -1,0 +1,17 @@
+atalho para comentários no 
+html,css "crtl;"
+html - <!-- <h2>Subtítulo</h2> -->
+css - /* font-size: 50px; */
+
+
+leitura do código css
+seletor {
+    propriedade: valor;
+
+} seletoré o que se quer formatar
+
+h1{
+    color:white;
+}
+
+developer mozilla
